@@ -19,4 +19,5 @@ Then I resist the urge to look up reviews on the album.
 
 ## List
 
-80/100 James Vincent McMorrow - Post Tropical
+80/100 [James Vincent McMorrow -
+Post Tropical](album-reviews/artists/James Vincent McMorrow/Post Tropical.md)
