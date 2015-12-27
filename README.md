@@ -21,3 +21,5 @@ Then I resist the urge to look up reviews on the album.
 
 80/100 [James Vincent McMorrow -
 Post Tropical](artists/James Vincent McMorrow/Post Tropical.md)
+
+75/100 [Remzie Osmani - Qka Shkoj Dje](artists/Remzie Osmani - Qka Shkoj Dje.md)
