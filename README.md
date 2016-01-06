@@ -23,3 +23,6 @@ Then I resist the urge to look up reviews on the album.
 Post Tropical](artists/James Vincent McMorrow/Post Tropical.md)
 
 75/100 [Remzie Osmani - Qka Shkoj Dje](artists/Remzie Osmani/Qka Shkoj Dje.md)
+
+68/100 [Y.S. aka Tha Thizz Kid - Y.S. aka Tha Thizz Kid]
+(artists/Y.S. aka Tha Thizz Kid/Y.S. aka Tha Thizz Kid.md)
