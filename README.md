@@ -22,8 +22,8 @@ Then I resist the urge to look up reviews on the album.
 80/100 [James Vincent McMorrow -
 Post Tropical](artists/James Vincent McMorrow/Post Tropical.md)
 
-76/100 [Hector & Tito - A La Reconquita](artists/Hector & Tito/A La
-Reconquita.md)
+76/100 [Hector & Tito - A La
+Reconquista](artists/Hector%20%26%20Tito/A%20La%20Reconquista.md)
 
 75/100 [Remzie Osmani - Qka Shkoj Dje](artists/Remzie Osmani/Qka Shkoj Dje.md)
 
