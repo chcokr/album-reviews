@@ -27,5 +27,8 @@ Reconquista](artists/Hector%20%26%20Tito/A%20La%20Reconquista.md)
 
 75/100 [Remzie Osmani - Qka Shkoj Dje](artists/Remzie Osmani/Qka Shkoj Dje.md)
 
+72/100 [Seth Avett & Jessica Lea Mayfield - ...Sing Elliott
+Smith](artists/Seth%20Avett%20%26%20Jessica%20Lea%20Mayfield/...Sing%20Elliott%20Smith.md)
+
 68/100 [Y.S. aka Tha Thizz Kid - Y.S. aka Tha Thizz Kid]
 (artists/Y.S. aka Tha Thizz Kid/Y.S. aka Tha Thizz Kid.md)
